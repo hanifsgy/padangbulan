@@ -4,6 +4,21 @@
     android:layout_width="match_parent"
     android:layout_height="wrap_content"
     android:background="@color/colorPrimary"
+
     >
+
+    <SearchView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/search_bar"
+        >
+
+    </SearchView>
+
+   <Button
+       android:layout_width="48dp"
+       android:layout_height="48dp"
+       android:background="@drawable/ic_add_black_24dp"
+       />
 
 </android.support.v7.widget.Toolbar>

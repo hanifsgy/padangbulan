@@ -18,6 +18,11 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
+        <activity
+            android:name=".ActivityAmbilPeran"
+            android:label="@string/title_activity_activity_ambil_peran"
+            android:theme="@style/AppTheme" >
+        </activity>
     </application>
 
 </manifest>

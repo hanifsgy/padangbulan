@@ -1,4 +1,8 @@
 <resources>
     <string name="app_name">PB.0.1</string>
     <string name="title_activity_main">MainActivity</string>
+    <string name="add">add</string>
+    <string name="title_activity_activity_ambil_peran">ActivityAmbilPeran</string>
+    <string name="search_bar">search</string>
+    <string name="back">back</string>
 </resources>
